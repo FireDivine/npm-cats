@@ -1,0 +1,26 @@
+{
+
+  "name": "npm-cats",
+  "description": "creating page for npm cp02.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireDivine/npm-cats.git"
+  },
+  "author": "Jillian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FireDivine/npm-cats/issues"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
